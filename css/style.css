@@ -2,12 +2,14 @@ body {
     background-color: rgb(241, 200, 145);
 }
 
-h1 {
+h1,
+p {
     text-align: center;
 }
 
 p {
-    text-align: center;
+    margin: 0 15px;
+    line-height: 25px;
 }
 
 a {
